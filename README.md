@@ -10,6 +10,7 @@
 ## Education
 ##SYRACUSE UNIVERSITY, SCHOOL OF INFORMATION STUDIES
 **Masters in Information Systems**
+
 ##USHA MITTAL INSTITUTE OF TECHNOLOGY (UMIT)
 **Bachelor of Technology, Computer Science and Technology**
 
