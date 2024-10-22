@@ -8,11 +8,11 @@
 ##Tools: Axiom, Tableau, PowerBI, MS Excel Advance, MS Project, MS Azure Data Studio, Access, Statistical Analysis, Jira, Hive, Asana, AWS services, MS Azure, Snowflake, Confluence, Figma, Quicksight, ETL, Selenium (WebDriver, Grid, IDE), CI/CD Tools.
 
 ## Education
-####SYRACUSE UNIVERSITY, SCHOOL OF INFORMATION STUDIES
-**Masters in Information Systems**
+## SYRACUSE UNIVERSITY, SCHOOL OF INFORMATION STUDIES
+** Masters in Information Systems **
 
-####USHA MITTAL INSTITUTE OF TECHNOLOGY (UMIT)
-**Bachelor of Technology, Computer Science and Technology**
+## USHA MITTAL INSTITUTE OF TECHNOLOGY (UMIT)
+Bachelor of Technology, Computer Science and Technology
 
 ## Work Experience
 
