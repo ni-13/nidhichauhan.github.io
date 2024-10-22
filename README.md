@@ -1,22 +1,22 @@
 # Data Engineer, Business Analyst, Data Analyst, Product Management, Project Management
 
 #### Technical Skills
-####Programming and Databases: SQL, Python, R, JavaScript, NoSQL, Oracle, Unix/ Linux Scripting, PostgresSQL.
-####Data Engineering and Visualization: Pandas, PySpark, SciKit, MatplotLib, Tensorflow, Snowflake, Airflow, Tableau, PowerBI.
-####Cloud Platforms and DevOps: AWS, CI/CD, Git, Docker, Jenkins, Databricks.
+#### Programming and Databases: SQL, Python, R, JavaScript, NoSQL, Oracle, Unix/ Linux Scripting, PostgresSQL.
+#### Data Engineering and Visualization: Pandas, PySpark, SciKit, MatplotLib, Tensorflow, Snowflake, Airflow, Tableau, PowerBI.
+#### Cloud Platforms and DevOps: AWS, CI/CD, Git, Docker, Jenkins, Databricks.
 
 ##Tools: Axiom, Tableau, PowerBI, MS Excel Advance, MS Project, MS Azure Data Studio, Access, Statistical Analysis, Jira, Hive, Asana, AWS services, MS Azure, Snowflake, Confluence, Figma, Quicksight, ETL, Selenium (WebDriver, Grid, IDE), CI/CD Tools.
 
 ## Education
 ## SYRACUSE UNIVERSITY, SCHOOL OF INFORMATION STUDIES
-** Masters in Information Systems **
+Masters in Information Systems 
 
 ## USHA MITTAL INSTITUTE OF TECHNOLOGY (UMIT)
 Bachelor of Technology, Computer Science and Technology
 
 ## Work Experience
 
-**Business Analyst - ICONSULT COLLABORATIVE (_September 2023 - Present_)**
+**Business Analyst - ICONSULT COLLABORATIVE (_September 2023 - October 2024_)**
 -Directed a specialized team through Agile practices in client interactions, resulting in a 25% enhancement in project delivery times and a 20% uptick in customer satisfaction metrics. 
 -Deployed SharePoint to architect a comprehensive project documentation solution, granting visibility to 9+ key stakeholders, thus fostering transparency and collaboration. 
 -Engineered a groundbreaking automation of membership registration processes through Spreadsheets, resulting in a remarkable 7-hour reduction in weekly labor hours. 
