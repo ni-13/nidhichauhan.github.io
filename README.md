@@ -1,17 +1,17 @@
 # Data Engineer, Business Analyst, Data Analyst, Product Management, Project Management
 
 #### Technical Skills
-##Programming and Databases: SQL, Python, R, JavaScript, NoSQL, Oracle, Unix/ Linux Scripting, PostgresSQL.
-##Data Engineering and Visualization: Pandas, PySpark, SciKit, MatplotLib, Tensorflow, Snowflake, Airflow, Tableau, PowerBI.
-##Cloud Platforms and DevOps: AWS, CI/CD, Git, Docker, Jenkins, Databricks.
+####Programming and Databases: SQL, Python, R, JavaScript, NoSQL, Oracle, Unix/ Linux Scripting, PostgresSQL.
+####Data Engineering and Visualization: Pandas, PySpark, SciKit, MatplotLib, Tensorflow, Snowflake, Airflow, Tableau, PowerBI.
+####Cloud Platforms and DevOps: AWS, CI/CD, Git, Docker, Jenkins, Databricks.
 
 ##Tools: Axiom, Tableau, PowerBI, MS Excel Advance, MS Project, MS Azure Data Studio, Access, Statistical Analysis, Jira, Hive, Asana, AWS services, MS Azure, Snowflake, Confluence, Figma, Quicksight, ETL, Selenium (WebDriver, Grid, IDE), CI/CD Tools.
 
 ## Education
-##SYRACUSE UNIVERSITY, SCHOOL OF INFORMATION STUDIES
+####SYRACUSE UNIVERSITY, SCHOOL OF INFORMATION STUDIES
 **Masters in Information Systems**
 
-##USHA MITTAL INSTITUTE OF TECHNOLOGY (UMIT)
+####USHA MITTAL INSTITUTE OF TECHNOLOGY (UMIT)
 **Bachelor of Technology, Computer Science and Technology**
 
 ## Work Experience
