@@ -5,7 +5,6 @@
 #### Data Engineering and Visualization: Pandas, PySpark, SciKit, MatplotLib, Tensorflow, Snowflake, Airflow, Tableau, PowerBI.
 #### Cloud Platforms and DevOps: AWS, CI/CD, Git, Docker, Jenkins, Databricks.
 
-##Tools: Axiom, Tableau, PowerBI, MS Excel Advance, MS Project, MS Azure Data Studio, Access, Statistical Analysis, Jira, Hive, Asana, AWS services, MS Azure, Snowflake, Confluence, Figma, Quicksight, ETL, Selenium (WebDriver, Grid, IDE), CI/CD Tools.
 
 ## Education
 ## SYRACUSE UNIVERSITY, SCHOOL OF INFORMATION STUDIES
@@ -17,10 +16,10 @@ Bachelor of Technology, Computer Science and Technology
 ## Work Experience
 
 **Business Analyst - ICONSULT COLLABORATIVE (_September 2023 - October 2024_)**
--Directed a specialized team through Agile practices in client interactions, resulting in a 25% enhancement in project delivery times and a 20% uptick in customer satisfaction metrics. 
--Deployed SharePoint to architect a comprehensive project documentation solution, granting visibility to 9+ key stakeholders, thus fostering transparency and collaboration. 
--Engineered a groundbreaking automation of membership registration processes through Spreadsheets, resulting in a remarkable 7-hour reduction in weekly labor hours. 
--Revolutionized decision-making processes by developing comprehensive BI dashboards in Tableau, tracking KPIs, and driving actionable insights; achieved a 22% increase in customer reach within six months.
+- Directed a specialized team through Agile practices in client interactions, resulting in a 25% enhancement in project delivery times and a 20% uptick in customer satisfaction metrics. 
+- Deployed SharePoint to architect a comprehensive project documentation solution, granting visibility to 9+ key stakeholders, thus fostering transparency and collaboration. 
+- Engineered a groundbreaking automation of membership registration processes through Spreadsheets, resulting in a remarkable 7-hour reduction in weekly labor hours. 
+- Revolutionized decision-making processes by developing comprehensive BI dashboards in Tableau, tracking KPIs, and driving actionable insights; achieved a 22% increase in customer reach within six months.
 
 
 **Data Science Intern- NEXIS STUDENT TECHNOLOGY LAB (_February 2023 - May 2023_)**
@@ -47,7 +46,7 @@ Bachelor of Technology, Computer Science and Technology
 - Architected a sophisticated monitoring system using CloudWatch, complete with personalized alarms and metrics; preemptively identified performance issues, reducing resolution time by 50% and enhancing system stability by 20%.
 
 
-### Visualization of Obesity Reasons in US
+### Visualization of Obesity Reasons in the US
 
 - Cleansed 5 data sets and created a relational database using SQL joins, DML, DDL, and MS SQL Server, ensuring data integrity and consistency. 
 - Developed a Tableau dashboard that highlights the top states affected by obesity and identifies major contributing factors, allowing for clear and impactful data visualization. 
@@ -55,5 +54,5 @@ Bachelor of Technology, Computer Science and Technology
 
 
 ## Publications
-##‘Real Time Automated Traffic Signal Controller’ Journal of Emerging Technologies and Innovation Research- JETIR.
+## ‘Real Time Automated Traffic Signal Controller’ Journal of Emerging Technologies and Innovation Research- JETIR.
 
