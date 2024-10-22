@@ -1,7 +1,9 @@
-# Business Analyst, Data Analyst, Product Management, Project Management
+# Data Engineer, Business Analyst, Data Analyst, Product Management, Project Management
 
 #### Technical Skills
-##Programming and Database: SQL, Python, C++, HTML/CSS, SQLite, R Studio, NoSQL, JavaScript, Redshift, Oracle, SAS, Matlab.
+##Programming and Databases: SQL, Python, R, JavaScript, NoSQL, Oracle, Unix/ Linux Scripting, PostgresSQL.
+##Data Engineering and Visualization: Pandas, PySpark, SciKit, MatplotLib, Tensorflow, Snowflake, Airflow, Tableau, PowerBI.
+##Cloud Platforms and DevOps: AWS, CI/CD, Git, Docker, Jenkins, Databricks.
 
 ##Tools: Axiom, Tableau, PowerBI, MS Excel Advance, MS Project, MS Azure Data Studio, Access, Statistical Analysis, Jira, Hive, Asana, AWS services, MS Azure, Snowflake, Confluence, Figma, Quicksight, ETL, Selenium (WebDriver, Grid, IDE), CI/CD Tools.
 
@@ -32,7 +34,7 @@
 - Executed strategic test plans with Jira and Jenkins, while authoring intricate SQL queries, enhancing financial data management accuracy by 45% and reducing reporting time by 25%.
 
 
- 
+
 
 
 
