@@ -1,5 +1,5 @@
 # Nidhi Devendra Chauhan 🌟
-### Data Engineer | Business Analyst | Data Analyst | Product Management | Project Management
+### Data Engineer | Data Scientist | Data Analyst | Product Management | Project Management
 
 ---
 
@@ -26,14 +26,14 @@
 
 ## **Work Experience** 🚀
 
-### **Business Analyst - ICONSULT COLLABORATIVE**  
+### **Data Engineer/ Analyst - ICONSULT COLLABORATIVE**  
 *September 2023 - October 2024*
 - 🏆 Directed a specialized team through Agile practices, resulting in a **25% enhancement in project delivery times** and a **20% increase in customer satisfaction metrics**. 
 - 🔗 Deployed SharePoint to architect a comprehensive project documentation solution, fostering transparency and collaboration among **9+ key stakeholders**. 
 - ⚙️ Engineered groundbreaking automation of membership registration processes via spreadsheets, resulting in a **7-hour reduction in weekly labor hours**. 
 - 📈 Developed comprehensive BI dashboards in Tableau, achieving a **22% increase in customer reach** within six months.
 
-### **Data Science Intern - NEXIS STUDENT TECHNOLOGY LAB**  
+### **Data Scientist - NEXIS STUDENT TECHNOLOGY LAB**  
 *February 2023 - May 2023*
 - 🔍 Implemented advanced analytics on **3 million trips**, leading to a **20% increase in ride frequency** and a **17% improvement in customer ratings**.
 - 🚀 Enhanced driver experience by **75%** through the application of Support Vector Machines, significantly improving model precision.
