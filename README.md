@@ -39,7 +39,7 @@
 - 🚀 Enhanced driver experience by **75%** through the application of Support Vector Machines, significantly improving model precision.
 - 📱 Innovated a scalable mobile app prototype in Android Studio, leading to a **30% reduction in server costs** and a **75% drop in error rates**.
 
-### **Axiom SL Developer - BANK OF AMERICA**  
+### **Software Developer - BANK OF AMERICA**  
 *June 2021 - July 2022*
 - ⚡ Elevated team efficiency by **45%** through Jira-based sprint board transformations and optimized report functionalities with advanced SQL queries.
 - 👥 Led a **20-member team** in optimizing finance regulatory reporting systems, reducing error rates by **30%** and boosting productivity by **85%**.
