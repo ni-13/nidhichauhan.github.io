@@ -1,70 +1,83 @@
-# Nidhi Devendra Chauhan 🌟
-### Data Engineer | Data Scientist | Data Analyst | Product Management | Project Management
+# Nidhi Devendra Chauhan 🌟  
+**Data Engineer | Data Scientist | Data Analyst | Software Developer**
 
 ---
 
-## **Technical Skills** 💻
-**Programming and Databases:**  
-- 🐍 SQL | Python | R | JavaScript | NoSQL | Oracle | Unix/Linux Scripting | PostgreSQL
+## Technical Skills 💻
 
-**Data Engineering and Visualization:**  
-- 📊 Pandas | PySpark | SciKit | Matplotlib | TensorFlow | Snowflake | Airflow | Tableau | Power BI
+### Programming and Databases
+- Python, SQL, C/C++, R, JavaScript  
+- MySQL, PostgreSQL, Redis, Neo4j, MongoDB, Athena, GraphQL  
+- Unix/Linux Scripting  
 
-**Cloud Platforms and DevOps:**  
-- ☁️ AWS | CI/CD | Git | Docker | Jenkins | Databricks
+### Data Engineering and Visualization
+- PySpark, Spark MLlib, SparkSQL  
+- Kafka, Airflow  
+- Tableau, Quicksight, Matplotlib  
 
----
+### Machine Learning Tools
+- PyTorch, TensorFlow, Keras, Scikit-Learn  
+- Regression (Logistic, Polynomial, Ridge/Lasso), Classification (XGBoost, Decision Tree, Random Forest), Clustering  
 
-## **Education** 🎓
-### Syracuse University, School of Information Studies
-**Masters in Information Systems** 
-
-### Usha Mittal Institute of Technology (UMIT)
-**Bachelor of Technology in Computer Science and Technology**
-
----
-
-## **Work Experience** 🚀
-
-### **Data Engineer/ Analyst - ICONSULT COLLABORATIVE**  
-*September 2023 - October 2024*
-- 🏆 Directed a specialized team through Agile practices, resulting in a **25% enhancement in project delivery times** and a **20% increase in customer satisfaction metrics**. 
-- 🔗 Deployed SharePoint to architect a comprehensive project documentation solution, fostering transparency and collaboration among **9+ key stakeholders**. 
-- ⚙️ Engineered groundbreaking automation of membership registration processes via spreadsheets, resulting in a **7-hour reduction in weekly labor hours**. 
-- 📈 Developed comprehensive BI dashboards in Tableau, achieving a **22% increase in customer reach** within six months.
-
-### **Data Scientist - NEXIS STUDENT TECHNOLOGY LAB**  
-*February 2023 - May 2023*
-- 🔍 Implemented advanced analytics on **3 million trips**, leading to a **20% increase in ride frequency** and a **17% improvement in customer ratings**.
-- 🚀 Enhanced driver experience by **75%** through the application of Support Vector Machines, significantly improving model precision.
-- 📱 Innovated a scalable mobile app prototype in Android Studio, leading to a **30% reduction in server costs** and a **75% drop in error rates**.
-
-### **Software Developer - BANK OF AMERICA**  
-*June 2021 - July 2022*
-- ⚡ Elevated team efficiency by **45%** through Jira-based sprint board transformations and optimized report functionalities with advanced SQL queries.
-- 👥 Led a **20-member team** in optimizing finance regulatory reporting systems, reducing error rates by **30%** and boosting productivity by **85%**.
-- ✅ Executed strategic test plans with Jira and Jenkins, enhancing financial data management accuracy by **45%** and reducing reporting time by **25%**.
+### Cloud Platforms and DevOps
+- AWS (EC2, S3, Lambda), Docker, Kubernetes  
+- CI/CD Pipelines with Jenkins and Git  
 
 ---
 
-## **Projects** 🛠️
+## Education 🎓
 
-### **Campus Automation System**
-- 🏢 **Pioneered** the Campus Automation System, utilizing Amazon S3 for a secure and scalable repository for student registration and transportation. 
-- ⚙️ **Automated 60%** of manual tasks through AWS Lambda, saving **200+ hours monthly** and reducing operational costs by **35%**. 
-- 🔒 Enhanced data integrity and privacy for sensitive educational datasets through comprehensive IAM role overhauls in AWS. 
-- 📊 Architected a monitoring system using CloudWatch, reducing resolution time by **50%** and improving system stability by **20%**.
+**Syracuse University**  
+*Master of Science in Information Systems* (CGPA: 3.7/4.0) – *May 2024*  
+Relevant Coursework: Database Management Systems, Cloud Management, Business Analytics  
 
-### **Visualization of Obesity Reasons in the US**
-- 🔄 Cleansed **5 datasets** and created a relational database using SQL joins, ensuring data integrity and consistency. 
-- 📊 Developed a **Tableau dashboard** highlighting the top states affected by obesity, facilitating clear and impactful data visualization. 
-- 📈 Analyzed data trends, guiding targeted intervention strategies for stakeholders.
+**Usha Mittal Institute of Technology (UMIT)**  
+*Bachelor of Technology in Computer Science and Technology* (CGPA: 3.6/4.0) – *June 2021*  
+Relevant Coursework: Data Structures, Big Data Analytics, Cloud Computing  
 
 ---
 
-## **Publications** 📖
-- **‘Real-Time Automated Traffic Signal Controller’** Journal of Emerging Technologies and Innovation Research (JETIR).
+## Work Experience 🚀
+
+### Data Engineer/ Analyst - IConsult Collaborative *(Sept 2023 – Oct 2024)*  
+- 🛠️ Developed and implemented ETL pipelines using Python to process client data daily, improving project delivery times by 25%.  
+- 📊 Engineered a data modeling solution to enhance data integrity and accessibility, leading to a 20% increase in customer satisfaction metrics.  
+- 🔗 Architected a project documentation system using SharePoint for collaboration among 9+ stakeholders.  
+- 📈 Designed BI dashboards in Tableau to track KPIs and increased customer reach by 22% within six months.  
+
+### Data Scientist - Nexis Student Technology Lab *(Feb 2023 – May 2023)*  
+- 🔍 Conducted advanced analytics on 3 million trips using time series detection algorithms to boost ride frequency by 20%.  
+- 🚀 Applied Support Vector Machines with feature engineering to improve driver experience by 75%.  
+- 📱 Prototyped a scalable mobile app in Android Studio to reduce server costs by 30% and improve response times by 40%.  
+
+### Software Developer - Bank of America *(June 2021 – July 2022)*  
+- ⚡ Built data pipelines for financial regulatory reporting systems to reduce error rates by 30% and enhance retrieval speed by 35%.  
+- 👥 Led a team of 20 in Agile practices to increase efficiency by 45% and productivity by 85%.  
+- ✅ Executed integration testing with Jira/Jenkins to enhance product quality while reducing downtime by 35%.  
 
 ---
 
-*Feel free to connect with me for collaboration or opportunities in data engineering and analytics! 📬*
+## Projects 🛠️
+
+### Campus Automation System *(AWS Lambda, CloudWatch, S3)*  
+- 🏢 Architected a cloud-based system using AWS services for secure student data management.  
+- ⚙️ Automated manual tasks with AWS Lambda to save over 200 hours monthly.  
+- 🔒 Enhanced system stability with CloudWatch monitoring for a 50% reduction in issue resolution time.
+
+### Visualization of Obesity Reasons in the US *(Tableau & SQL)*  
+- 🔄 Cleansed datasets and created relational databases using SQL joins (DML & DDL).  
+- 📊 Designed Tableau dashboards highlighting obesity trends across states for better decision-making.
+
+---
+
+## Publications 📖
+
+**‘Real-Time Automated Traffic Signal Controller’** – Published in the *Journal of Emerging Technologies and Innovation Research (JETIR)*.
+
+---
+
+## About Me 🌟
+
+With a robust foundation in data analysis and software development, I have gained diverse experience across the data industry. My expertise spans implementing ETL pipelines and developing BI dashboards to applying advanced machine learning techniques and optimizing database performance. I am passionate about leveraging data-driven insights to solve complex business problems and drive strategic decision-making.
+
+Feel free to connect for collaboration or opportunities in
