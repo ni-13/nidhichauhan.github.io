@@ -39,7 +39,7 @@ Relevant Coursework: Data Structures, Big Data Analytics, Cloud Computing
 
 ## Work Experience 🚀
 
-### Data Engineer/ Analyst - IConsult Collaborative *(Sept 2023 – Oct 2024)*  
+### Data Engineer/ Analyst - IConsult Collaborative *(Sept 2023 – Present)*  
 - 🛠️ Developed and implemented ETL pipelines using Python to process client data daily, improving project delivery times by 25%.  
 - 📊 Engineered a data modeling solution to enhance data integrity and accessibility, leading to a 20% increase in customer satisfaction metrics.  
 - 🔗 Architected a project documentation system using SharePoint for collaboration among 9+ stakeholders.  
