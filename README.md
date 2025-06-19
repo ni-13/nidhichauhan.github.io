@@ -39,13 +39,13 @@ Relevant Coursework: Data Structures, Big Data Analytics, Cloud Computing
 
 ## Work Experience 🚀
 
-### Data Engineer/ Analyst - IConsult Collaborative *(Sept 2023 – Present)*  
+### Software Developer - IConsult Collaborative *(Sept 2023 – Present)*  
 - 🛠️ Developed and implemented ETL pipelines using Python to process client data daily, improving project delivery times by 25%.  
 - 📊 Engineered a data modeling solution to enhance data integrity and accessibility, leading to a 20% increase in customer satisfaction metrics.  
 - 🔗 Architected a project documentation system using SharePoint for collaboration among 9+ stakeholders.  
 - 📈 Designed BI dashboards in Tableau to track KPIs and increased customer reach by 22% within six months.  
 
-### Data Scientist - Nexis Student Technology Lab *(Feb 2023 – May 2023)*  
+### DSoftware Developer - Nexis Student Technology Lab *(Feb 2023 – May 2023)*  
 - 🔍 Conducted advanced analytics on 3 million trips using time series detection algorithms to boost ride frequency by 20%.  
 - 🚀 Applied Support Vector Machines with feature engineering to improve driver experience by 75%.  
 - 📱 Prototyped a scalable mobile app in Android Studio to reduce server costs by 30% and improve response times by 40%.  
